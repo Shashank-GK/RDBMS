@@ -1,2 +1,2 @@
 # RDBMS
-MySQL database  queries,
+SQL database  queries,
